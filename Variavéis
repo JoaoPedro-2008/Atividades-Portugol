@@ -1,0 +1,23 @@
+programa {
+  funcao inicio() {
+    // Posso escrever um comentário de uma linha
+    /*
+    Aqui é um comentário de maus de uma linha 
+    Posso adicionar diversas linhas de comentários
+    Esse conteúdo não é interpretado pelo interpretador.
+    */
+    
+    //Declaração de variavéis
+    cadeia nome
+    inteiro idade
+    real altura
+
+    //Atribuição de variavéis
+    nome= "Eduardo"
+    idade= 40
+    altura= 1.74
+
+    //Exxibir mensagem na tela
+    escreva("Nome: ",nome, "idade: ", idade, "altura ", altura)
+  }
+}
