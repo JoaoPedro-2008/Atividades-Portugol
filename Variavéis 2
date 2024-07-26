@@ -1,19 +1,19 @@
 programa {
   funcao inicio() {
 
-    // Posso escrever um comentário de uma linha
+    // Posso escrever um comentÃ¡rio de uma linha
     /*
-    Aqui é um comentário de mais de uma linha 
-    Posso adicionar diversas linhas de comentários
-    Esse conteúdo não é interpretado pelo interpretador.
+    Aqui Ã© um comentÃ¡rio de mais de uma linha 
+    Posso adicionar diversas linhas de comentÃ¡rios
+    Esse conteÃºdo nÃ£o Ã© interpretado pelo interpretador.
     */
     
-    //Declaração de variavéis
+    //DeclaraÃ§Ã£o de variavÃ©is
     cadeia nome
     inteiro idade
     real altura
 
-    //Atribuição de variavélcomcomandoleia()
+    //AtribuiÃ§Ã£o de variavÃ©lcomcomandoleia()
     escreva("Digite o seu nome: ")
     leia(nome)
     escreva("Digite a sua idade: ")
