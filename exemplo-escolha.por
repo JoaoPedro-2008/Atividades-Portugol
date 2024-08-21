@@ -2,21 +2,21 @@ programa {
   funcao inicio() {
     //exemplo de escolha-caso
     inteiro numero
-    escreva("Digite um número de 1 a 5: ")
+    escreva("Digite um nÃºmero de 1 a 5: ")
     leia(numero)
     escolha(numero)
     {
       caso 1:
-      escreva("Escolheu a opção 1\n")
+      escreva("Escolheu a opÃ§Ã£o 1\n")
       pare
       caso 2:
-      escreva("Escolheu a opção 2\n")
+      escreva("Escolheu a opÃ§Ã£o 2\n")
       pare
       caso 3:
-      escreva("Escolheu a opção 3\n")
+      escreva("Escolheu a opÃ§Ã£o 3\n")
       pare
       caso contrario:
-      escreva("Você não escolheu nenhuma das opções válidas")
+      escreva("VocÃª nÃ£o escolheu nenhuma das opÃ§Ãµes vÃ¡lidas")
     }
   }
 }
